@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-FPGA-based lunar lander game implemented in SystemVerilog targeting the Lattice ICE40HX8K. Simulates altitude, velocity, and fuel dynamics in real-time using BCD ten's-complement arithmetic. Determines safe landing versus crash conditions via finite state machine. Outputs status and display data to 4-digit 7-segment LEDs.
+FPGA-based lunar lander game implemented in SystemVerilog targeting the Lattice ICE40HX8K. Simulates altitude, velocity, and fuel dynamics in real-time using BCD ten's-complement arithmetic. Determines safe landing versus crash conditions via finite state machine. Outputs status and data to 8-digit 7-segment display.
 
 ## What I Built
 
