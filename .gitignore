@@ -1,0 +1,32 @@
+# Build outputs
+build/
+*.json
+*.asc
+*.bin
+
+# Simulation outputs
+*.fst
+*.vcd
+*.vvp
+
+# Logs
+verilog.log
+abc.history
+
+# IDE/Editor
+.vscode/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Dependencies
+node_modules/
+
+# Temporary files
+temp/
+tmp/
